@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Introducción a Flask",
+    "content": "Flask es un microframework de Python ligero y fácil de usar.",
+    "username": "admin"
+  },
+  {
+    "title": "Conectando Flask con MongoDB",
+    "content": "Para conectar Flask con MongoDB usamos PyMongo.",
+    "username": "devUser"
+  },
+  {
+    "title": "Cómo desplegar Flask en Render",
+    "content": "Render ofrece un servicio gratuito para desplegar aplicaciones Flask.",
+    "username": "flaskUser"
+  },
+  {
+    "title": "Autenticación en Flask con JWT",
+    "content": "Para manejar sesiones en Flask se recomienda usar JWT.",
+    "username": "securityGuy"
+  },
+  {
+    "title": "Flask vs Django: ¿Cuál elegir?",
+    "content": "Django es más robusto, pero Flask ofrece mayor flexibilidad.",
+    "username": "frameworksFan"
+  },
+  {
+    "title": "Cómo usar Blueprints en Flask",
+    "content": "Los Blueprints permiten organizar mejor una aplicación Flask.",
+    "username": "modularDev"
+  },
+  {
+    "title": "Deploy Flask en Heroku",
+    "content": "Heroku ofrece una opción gratuita para desplegar apps Flask.",
+    "username": "cloudDev"
+  },
+  {
+    "title": "Manejo de errores en Flask",
+    "content": "Flask permite manejar errores con decoradores personalizados.",
+    "username": "errorHandler"
+  },
+  {
+    "title": "Integrando Flask con Vue.js",
+    "content": "Vue.js es un buen frontend para una API en Flask.",
+    "username": "fullStackDev"
+  },
+  {
+    "title": "Autenticación con Google en Flask",
+    "content": "Podemos usar OAuth para autenticar usuarios con Google.",
+    "username": "authMaster"
+  },
+  {
+    "title": "Usando Flask-Mail para enviar correos",
+    "content": "Flask-Mail permite enviar correos electrónicos fácilmente.",
+    "username": "emailDev"
+  },
+  {
+    "title": "Autenticación con Flask-Login",
+    "content": "Flask-Login facilita la autenticación de usuarios en Flask.",
+    "username": "loginExpert"
+  },
+  {
+    "title": "Cómo usar WebSockets en Flask",
+    "content": "WebSockets permiten comunicación en tiempo real con Flask-SocketIO.",
+    "username": "realtimeDev"
+  },
+  {
+    "title": "Flask con PostgreSQL usando SQLAlchemy",
+    "content": "SQLAlchemy permite integrar Flask con PostgreSQL de manera eficiente.",
+    "username": "databaseDev"
+  },
+  {
+    "title": "Cómo usar Celery con Flask",
+    "content": "Celery permite ejecutar tareas en segundo plano con Flask.",
+    "username": "asyncDev"
+  },
+  {
+    "title": "Testing en Flask con Pytest",
+    "content": "Pytest es una excelente herramienta para testear aplicaciones Flask.",
+    "username": "testDev"
+  },
+  {
+    "title": "Configuraciones avanzadas en Flask",
+    "content": "Cómo manejar múltiples configuraciones en Flask según el entorno.",
+    "username": "configMaster"
+  },
+  {
+    "title": "Subiendo archivos con Flask",
+    "content": "Cómo manejar subida de archivos en Flask con Flask-Uploads.",
+    "username": "fileUploader"
+  },
+  {
+    "title": "Flask con GraphQL",
+    "content": "Cómo implementar GraphQL en una API Flask con Graphene.",
+    "username": "graphqlDev"
+  },
+  {
+    "title": "Optimización de rendimiento en Flask",
+    "content": "Cómo hacer que una aplicación Flask sea más rápida y escalable.",
+    "username": "performanceGuru"
+  }
+]
